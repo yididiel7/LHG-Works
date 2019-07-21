@@ -10,7 +10,7 @@ At tell us™, we strive to exceed your expectations by breaking barriers with p
 
 [Website](https://yididiel7.github.io/)
 
-[Instagram](Community Help Center-Tell Us™)
+[Instagram](https://Community Help Center-Tell Us™)
 
 
 [YouTube Channel](http://www.youtube.com/c/TyroneHillsmbw/)
