@@ -5,7 +5,7 @@
 
 [Website]
 
-[YouTube Channel] (http://www.youtube.com/c/TyroneHillsmbw)
+[YouTube Channel](http://www.youtube.com/c/TyroneHillsmbw)
 
 ### My Github Repo
 
