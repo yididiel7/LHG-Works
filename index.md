@@ -28,7 +28,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Stay Connected with Us
 
-[Phone] 612-888-5073 or 054-993-0574
-[Email] (mobw4u@gmail.com)
+[Phone](612-888-5073)-(054-993-0574)
+[Email](mobw4u@gmail.com)
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
