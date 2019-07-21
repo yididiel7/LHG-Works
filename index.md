@@ -37,4 +37,4 @@ At tell us™, we strive to exceed your expectations by breaking barriers with p
 
 Copyright © 2019 tell us - All Rights Reserved.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
