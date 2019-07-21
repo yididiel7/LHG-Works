@@ -9,16 +9,16 @@
 
 ### My Github Repo
 
-01.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-02.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-03.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-04.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-05.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-06.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-07.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-08.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-09.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-10.[Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+01. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+02. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+03. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+04. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+05. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+06. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+07. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+08. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+09. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+10. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
