@@ -1,10 +1,16 @@
 ## **Welcome to My GitHub Page, here you can see my work**
 
+At tell us™, we strive to exceed your expectations by breaking barriers with positive solutions for any situation that may arise. If you need help with personal Issues, child abuse or neglect of any person, domestic health disparities, consulting, Adolescent pregnancy or the benefits of military personnel and business opportunities, contact us. We’re available to help you navigate even the most difficult human resources and issues. It is our goal to assist you and develop a bond of trust with solutions for you.
+
+
+
 
 [Github](https://github.com/yididiel7)
 
 
 [Website](https://yididiel7.github.io/)
+
+[Instagram](@Community Help Center - Tell Us™)
 
 
 [YouTube Channel](http://www.youtube.com/c/TyroneHillsmbw/)
@@ -29,6 +35,6 @@
 [Phone](612-888-5073)-(054-993-0574)
 [Email](mobw4u@gmail.com)
 
-@Community Help Center - Tell Us™
+Copyright © 2019 tell us - All Rights Reserved.
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
