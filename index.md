@@ -24,13 +24,13 @@ At tell us™, we strive to exceed your expectations by breaking barriers with p
 
 
 
-01. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-02. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-03. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-04. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-05. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-06. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-07. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+01. [ABOUT US](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+02. [HR Management Solutions](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+03. [ONLINE APPOINTMENTS](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+04. [CONTACT US](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+05. [Get a Solid POD and Identity](https://inrupt.net/)
+06. [Community Help Center - Tell Us™](https://yididiel7.github.io/)
+07. [PROVIDING PROFESSIONAL BUSINESS SUPPORT](https://tellus.godaddysites.com/)
 08. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
 09. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
 10. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
