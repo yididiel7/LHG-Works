@@ -8,7 +8,8 @@ At tell us™, we strive to exceed your expectations by breaking barriers with p
 [Github](https://github.com/yididiel7)
 
 
-[Website](https://yididiel7.github.io/)
+[My Solid Pod™](https://yididiel7.solid.community/)
+
 
 [Instagram](https://Community Help Center-Tell Us™)
 
