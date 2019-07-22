@@ -11,10 +11,10 @@ At tell us™, we strive to exceed your expectations by breaking barriers with p
 [My Solid Pod™](https://yididiel7.solid.community/)
 
 
-[Instagram](https://Community Help Center-Tell Us™)
+[My Instagram](https://www.instagram.com/tyrone.hills2/?hl=en)
 
 
-[YouTube Channel](http://www.youtube.com/c/TyroneHillsmbw/)
+[My YouTube Channel](http://www.youtube.com/c/TyroneHillsmbw/)
 
 
 ### My Github Repo
