@@ -31,9 +31,9 @@ At tell us™, we strive to exceed your expectations by breaking barriers with p
 05. [Get a Solid POD and Identity](https://inrupt.net/)
 06. [Community Help Center - Tell Us™](https://yididiel7.github.io/)
 07. [PROVIDING PROFESSIONAL BUSINESS SUPPORT](https://tellus.godaddysites.com/)
-08. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-09. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-10. [Introduction](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+08. [Building Projects & Development](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+09. [IT Training](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
+10. [Conduct & Life Style](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
 
 
 ### Stay Connected with Us
