@@ -35,7 +35,6 @@ At TELL US™, we strive to exceed your expectations by breaking barriers with p
 09. [IT Training](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
 10. [Conduct & Life Style](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
 
-
 <span id="raImageSpan"></span><div style="color: #7A7B7F;font-weight: bold;font-size: 8px;;" id="sysaidRaInc" ><a href="http://www.ilient.com"><img style="border:0;cursor:pointer" src="http://127.0.0.1:8080/icons/ra/powered-by-SysAid.png" alt="SysAid Help Desk Software"></a></div><script type="text/javascript"> var enduserportal="0";var raAccnt='sysaid2591_trial';var raUrlPreffix="http://127.0.0.1:8080/";var RaImageSrc="http://127.0.0.1:8080/icons/ra/ra_portal.png";</script><script type="text/javascript" src="http://127.0.0.1:8080/RemoteAccessImage"></script>
 
 ### Stay Connected with Us
