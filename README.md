@@ -1,8 +1,10 @@
 # yididiel7.github.io
-Community Help Center - TELL US™
+Welcome to Smart House Afrika Israel  Community Document Help Center - (sha-il docs)™
 
-At "TELLUSHUB.NET", We strive to exceed your expectations by breaking barriers with positive solutions for any situation that may arise. If you need help with personal issues, child abuse or neglect of any person, domestic health disparities, Consulting, Adolescent pregnancy or the benefits to military personnel and business opportunities, please contact mobw4u@gmail.com "Tellushub.net®"
-We are able and available to assist you with difficult human resources issues.
+We are developing detailed documentation regarding our (sha-il docs).
+This Process and its sequence of Modular Operational System Constructs.  
+Known herein as (MOSC)
+Using this process as a result of a sequence model for every task function by the host service providers.
 
 
 It is our goal to assist you and develop a bond of trust with solutions to your issues..
