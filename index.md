@@ -1,45 +1,30 @@
-## **Welcome to my GitHub Page, here you can see my work**
+## Welcome to Smart House Afrika Israel
 
-At TELL US™, we strive to exceed your expectations by breaking barriers with positive solutions for any situation that may arise. If you need help with personal Issues, child abuse or neglect of any person, domestic health disparities, consulting, Adolescent pregnancy or the benefits of military personnel and business opportunities, contact us. We’re available to help you navigate even the most difficult human resources and issues. It is our goal to assist you and develop a bond of trust with solutions for you.
+We are developing detailed documentation regarding our (sha-il docs).
+This Process and its sequence of Modular Operational System Constructs.  
+Known herein as (MOSC)
 
+Using this process as a result of a sequence model for every task function by the host service providers.
+In order to achieve a particular (HSP) method, then reusing the steps taken to achieve the desired result, as we develop the modules in the construction phase, we build a systematic successful implementation process to follow and build mutual consistencies in communications of integrity and therefore removing all rhetoric.
 
+Thus, having documented a process and utilizing our methods to train and guide our workforce in critical matters of (sha-il docs) documentation. The purpose of these policies which resolve conflicts and thwart miss-information being passed around with no accountability. Therefore we must design a system of communicating by written formal statements, as well as documenting processes as a standard simulation of interaction. Be it Government Entities, Ministries, or otherwise.
 
+“We must be held to account for what has been said!”
 
+Starting with the initial phase of contact by the (HSP). Documenting the action-task process until the conclusion and providing a written report of that instance in the process.
 
-[Github](https://github.com/yididiel7)
-
-
-[My Solid Pod™](https://yididiel7.solid.community/)
-
-
-[My Instagram](https://www.instagram.com/tyrone.hills2/?hl=en)
-
-
-[My YouTube Channel](http://www.youtube.com/c/TyroneHillsmbw/)
-
-
-
-
-### My Github Repo
+In performing the action-task process and detailing the methods used to maintain the correct outcome. 
+The desired results are in writing the scripts to perform and follow the action-task process and monitoring workloads. 
+We maintain accountability throughout every action, responding to all contacts, following up messages, meeting notation minutes, Emails, etc... providing a practical means of enforcing accountability. Our job is to develop the system and scripts relating to each centralized department and structured guidelines, including operational expenses, personnel, Government Oversight, International Guidelines, Laws, and Banking rules and regulations.
 
 
 
-01. [ABOUT US](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-02. [HR Management Solutions](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-03. [CHC Help Desk]
-04. [CONTACT US](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-05. [Get a Solid POD and Identity](https://inrupt.net/)
-06. [Community Help Center - TELL US™](https://yididiel7.github.io/)
-07. [PROVIDING PROFESSIONAL BUSINESS SUPPORT](https://tellus.godaddysites.com/)
-08. [Building Projects & Development](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-09. [IT Training](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
-10. [Conduct & Life Style](https://github.com/yididiel7/yididiel7.github.io/edit/master/index.md)
 
 ### Stay Connected with Us
 
 [Phone](612-888-5073)-(054-993-0574)
 [Email](mobw4u@gmail.com)
 
-TELL US™ - 2019 All Rights Reserved.
+sha-il docs™ - 2019 All Rights Reserved.
 
 
