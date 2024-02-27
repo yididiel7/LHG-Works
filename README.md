@@ -1,4 +1,4 @@
-# My favorite password manager for the Linux terminal Emulator
+# My favorite password manager Pass
 
 This directory contains the dotfiles for my system.
 
