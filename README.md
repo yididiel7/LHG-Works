@@ -1,6 +1,6 @@
 # My favorite password manager Pass
 
-This directory contains the dotfiles for my system.
+This directory contains the dotfiles for my LHG-Works GitHub pages.
 
 ## Requirements
 
