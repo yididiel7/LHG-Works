@@ -1,6 +1,6 @@
 Welcome to Smart LHG for the linux community
 
-We are developing detailed documentation regarding our (lhg-works docs).
+We are developing detailed documentation regarding our (lms-works docs).
 This Process and its sequence of Modular Operational System Constructs.  
 Known herein as (LHG-WORKS).
 
