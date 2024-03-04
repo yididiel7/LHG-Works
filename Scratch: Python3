@@ -1,0 +1,7 @@
+class MyClassName(object):
+	"""docstring for MyClassName"""
+	def __init__(self, argument):
+		super(MyClassName, self).__init__()
+		self.argument = argument
+		
+		

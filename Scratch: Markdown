@@ -1,0 +1,46 @@
+# Usage
+
+> Dotothy followed her through many of the beauiful rooms in her castle.
+
+Note that require("discount") returns a single function, which you are responsible for giving a suitable name. Example:
+
+discount = require("discount")
+
+local markdown_string = [[
+  # Demonstration
+  This is a demonstration of lua-discount. Passing the options `"nolinks"` 
+  disables links such as [this](https://asbradbury.org/projects/lua-discount/).
+  ]]
+
+  local html_string = discount(markdown_string, "nolinks")
+
+  The discount function takes as its first argument the Markdown string to convert, and for its subsequent arguments takes any combination of the following strings as options:
+
+"nolinks"
+    do not allow <a or expand Markdown links.
+"noimages"
+    do not allow <img or expand Markdown images.
+"nopants"
+    disable SmartyPants processing.
+"nohtml"
+    disallow embedded html by replacing all < with &lt;.
+"tagtext"
+    don't expand * or _ when used for emphasis.
+"noext"
+    do not process pseudo-protocols
+"cdata"
+    generate output suitable for use as data in an XML document.
+"embed"
+    equivalent to specifying "nolinks", "noimages" and "tagtext".
+
+License and acknowledgements
+
+lua-discount is distributed under a BSD-style license.
+
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
