@@ -2,6 +2,8 @@
 
 [How to Share Files via SSHFS](https://tinyurl.com/yodnefau)
 
+### Examples: 
+
 sshfs bent:/home/bentec/SAMSUNG-3570r PN62PC/
 sshfs thinkcentre:/home/tyarco/M93pThink ThinkCenter/
 sshfs optiplex:/home/tyhills/Plex7010 Opti7010/
