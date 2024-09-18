@@ -1,4 +1,5 @@
-# Tilda keyboard shortcuts
+# Tilda is a terminal emulator these are the keyboard shortcuts
+
 export 'XDG_DATA_DIRS="/usr/share/rofi/themes:$XDG_DATA_DIRS"' >> ~/.xsessionrc
 export XDG_DATA_DIRS="/usr/local/share:/usr/share"
 F1 	Pull down and pull up (Hide and Show) Tilda terminal window
